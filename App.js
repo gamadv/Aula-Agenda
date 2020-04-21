@@ -1,6 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
-import Agenda from './src/pages/Agenda.js'
+import Agenda from './src/screen/Agenda'
 
 
 export default function App() {

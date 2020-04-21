@@ -1,0 +1,9 @@
+{
+    "turno": "",
+    "horario": "",
+    "_embedded": {
+      "disciplina": {
+        "sigla": "Horário Vago"
+      }
+    }
+  }
