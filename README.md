@@ -3,16 +3,16 @@ Sobre o projeto: Teste técnico solicitado pela Avansys onde coloco em prática 
 utilizando <b>EXPO</b> com foco no desenvolvimento do <b>Front-End</b> consumindo dados em <b>JSON</b>.
 
 ## Tecnologias envolvidas
-- [x] <b>-> Yarn para gerenciamento de pacotes do node</b>,
-- [x] <b>-> Expo: v3.18.6 /b>, 
-- [x] <b>-> Estilização com Styled Components </b>,
+- [x] -> Yarn para gerenciamento de pacotes do node</b>,
+- [x] -> Expo: v3.18.6 /b>, 
+- [x] -> Estilização com Styled Components </b>,
 
 
 ## Dependencias:
    * yarn install (para correções após clone do repositório) 
-- [x] Criação do projeto com: <b> expo init nomeDoProjeto </b>.
+- [x] Criação do projeto com: expo init nomeDoProjeto.
 - [x] Utilização do Expo Constants para uso de atributos do android, no caso de desse projeto o StatusBarHeight: 
-      <b> expo init nomeDoProjeto </b>.
+      expo init nomeDoProjeto.
 
 #### Ferramentas;
     Visual Studio Code - Como editor.
