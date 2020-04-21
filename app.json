@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "aula-agenda",
+    "slug": "aula-agenda",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "androidStatusBarColor": "#3598f594",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#3598f594"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
