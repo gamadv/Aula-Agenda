@@ -18,6 +18,7 @@ utilizando <b>EXPO</b> com foco no desenvolvimento do <b>Front-End</b> consumind
     
 
 ## Imagem da Aplicação:
-  A aplicação possui somente 1 Tela, juntamente com a <i>Splash Screen</i> gerada pelo próprio EXPO:
+  A aplicação possui somente 1 Tela, juntamente com a <i>Splash Screen</i> gerada pelo próprio EXPO.
+  App testado com smartphone: <b>Xiaomi Redmi Note 6 Pro</b>:
   
- Splash:   Tela da Agenda:
+ Splash: ![picture](/assets/Sample_Splash.png)  Tela da Agenda: ![picture](/assets/Sample_AgendaScreen.png)
