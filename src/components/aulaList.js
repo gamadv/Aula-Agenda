@@ -80,7 +80,6 @@ export default function AulaList() {
 
     return (
 
-        // Flatlist for Date content 
         <FlatList
             data={aulaSelect()}
             style={aulaListStyles.aulaList}
@@ -95,7 +94,6 @@ export default function AulaList() {
                             {vetorAulas.item[0].turno == "M" ? " Manhã" : " Tarde"}
                         </Text>
                         
-        {/* FlatList for aulaBox content  */}
                         <FlatList
                             data={vetorAulas.item}
                             numColumns={5}
