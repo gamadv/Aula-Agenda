@@ -5,9 +5,9 @@ utilizando <b>EXPO</b> com foco no desenvolvimento do <b>Front-End</b> consumind
 database disponibilizada (dados fictícios).
 
 ## Tecnologias envolvidas:
-- [x] -> Yarn: v1.22.4 - para gerenciamento de pacotes do node;
-- [x] -> Expo: v3.18.6 - para o desenvolvimento mobile;
-- [x] -> Styled Components - para estilização dos components.
+- [x] Yarn: v1.22.4 - para gerenciamento de pacotes do node;
+- [x] Expo: v3.18.6 - para o desenvolvimento mobile;
+- [x] Styled Components - para estilização dos components.
 
 ## Dependencias:
    * yarn install (para correções após clone do repositório) .
