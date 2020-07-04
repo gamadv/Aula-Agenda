@@ -1,3 +1,7 @@
+<h2 align=center>
+  :ballot_box_with_check: Aula Agenda :ballot_box_with_check:
+</h2>
+
 <h1 align=center>
   <img src="/assets/banner.jpg">
 </h1>
