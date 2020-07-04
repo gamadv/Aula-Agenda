@@ -22,18 +22,18 @@
 utilizando <b>EXPO</b> com foco no desenvolvimento do <b>Front-End</b> consumindo dados com conteúdo predefinidos em <b>JSON</b>.
 - Projeto tem como objetivo mostrar quais e em que períodos estão aulas agendadas de determinada escola cadastrada.
 
-## :small_blue_diamond:Tecnologias envolvidas:
+### :small_blue_diamond:Tecnologias envolvidas:
 - [x] Expo: Para o desenvolvimento mobile mais eficiente 
 - [x] Expo Constants: Para uso de recursos do android, no caso deste projeto o StatusBarHeight.
 - [x] Chocolatey: Como Package Manager do Windows por onde instalei o node e o Yarn
 
 \* Informações sobre as dependências --> <kbd>[package.json](./package.json)</kbd>
 
-## :small_blue_diamond: Ferramentas:
+### :small_blue_diamond: Ferramentas:
 - [x] Editor: [Visual Studio Code](https://code.visualstudio.com/)
 - [x] Emulador: [Android Studio](https://developer.android.com/studio) (Também testado em meu aparelho pessoal <b>Redmi Note 6 Pro<b>)
   
-## :arrow_forward: Baixando o projeto:
+### :small_blue_diamond: Baixando o projeto:
   Ao clonar o repositório é necessário que:
   1. Possua o <a href="https://nodejs.org/en/">NodeJs<a/> instalado em seu PC; 
   2. Assim como node o Expo deve estar instalado:
